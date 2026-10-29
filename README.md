@@ -1,4 +1,4 @@
-# political-interviews-clarity-classification-tfidf-word2vec
+# tfidf-word2vec-political-interviews-clarity-classification
 
 ##  Assignment Description
 
