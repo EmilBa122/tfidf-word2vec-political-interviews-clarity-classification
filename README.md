@@ -2,7 +2,8 @@
 
 ##  Assignment Description
 
-Response clarity classification of political interviews (Clear Reply, Ambivalent, Clear Non-Reply) using two text representations (TF-IDF, Word2Vec) with Logistic Regression, based on SemEval 2026 Task 6 (CLARITY)
+Clarity classification of responses in political interviews (Clear Reply, Ambivalent, Clear Non-Reply) using two text representations (TF-IDF, 
+Word2Vec) with Logistic Regression, based on SemEval 2026 Task 6 (CLARITY)
 
 ##  Dataset
 
