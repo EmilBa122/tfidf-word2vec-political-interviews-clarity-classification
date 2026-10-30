@@ -5,6 +5,10 @@
 Clarity classification of responses in political interviews (Clear Reply, Ambivalent, Clear Non-Reply) using two text representations (TF-IDF, 
 Word2Vec) with Logistic Regression, based on SemEval 2026 Task 6 (CLARITY)
 
+##  Runtime
+
+The notebook takes 2 hours to run on Google Colab (CPU only, no GPU required)
+
 ##  Dataset
 
 The dataset used in this project is available on Hugging Face: [ailsntua/QEvasion](https://huggingface.co/datasets/ailsntua/QEvasion)
